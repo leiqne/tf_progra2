@@ -1,0 +1,174 @@
+﻿  Menu.cpp
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,78): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,62): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(37,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(38,30): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(59,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,70): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,71): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(55,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(79,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel1.h(29,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel1.h(398,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel1.h(398,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(29,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(406,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(406,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(415,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(579,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(580,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(581,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(408,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(408,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(420,49): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(562,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(563,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(564,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Menu.h(459,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Menu.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  MyForm.cpp
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,78): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,62): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(37,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(38,30): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(59,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,70): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,71): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(55,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(79,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(408,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(408,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(420,49): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(562,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(563,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel3.h(564,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Nivel1.cpp
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,78): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,62): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(37,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(38,30): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(59,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,70): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,71): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(55,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(79,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel1.h(29,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel1.h(398,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel1.h(398,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Nivel2.cpp
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(61,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,78): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Personaje.h(289,62): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Doctor.h(24,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(19,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(35,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(37,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Vacuna.h(38,30): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Helicoptero.h(22,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(31,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo1.h(46,64): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(14,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(37,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(59,29): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,70): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Tipo2.h(63,54): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(12,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,79): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(26,71): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,66): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Boss.h(45,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(55,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Controller.h(79,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(29,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(406,82): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(406,60): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(415,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(579,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(580,20): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\TrabajoFinalV3\Nivel2.h(581,22): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Menu.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinalV3.vcxproj -> C:\Users\joaqu\OneDrive\Escritorio\CarpetaTrabajoFinalVersion3\x64\Debug\TrabajoFinalV3.exe

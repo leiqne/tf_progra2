@@ -1,0 +1,5 @@
+D:\Programacion\TrabajoFinalV3\TrabajoFinalV3\Debug\TrabajoFinalV3.vcxproj.AssemblyReference.cache
+D:\Programacion\TrabajoFinalV3\TrabajoFinalV3\Debug\TrabajoFinalV3.Menu.resources
+D:\Programacion\TrabajoFinalV3\TrabajoFinalV3\Debug\TrabajoFinalV3.vcxproj.GenerateResource.cache
+D:\Programacion\TrabajoFinalV3\TrabajoFinalV3\Debug\TrabajoFinalV3.Nivel1.resources
+D:\Programacion\TrabajoFinalV3\TrabajoFinalV3\Debug\TrabajoFinalV3.Nivel2.resources
